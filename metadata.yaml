@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33154'
     url: http://www.gutenberg.org/2009/agents/33154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28108#The-Pennyles-PilgrimageOr-The-Money-lesse-Perambulation-of-John-Taylor
 gutenberg_issued: '2009-02-18'
 gutenberg_type: Text
 identifiers:
